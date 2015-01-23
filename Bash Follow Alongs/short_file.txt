@@ -1,0 +1,3 @@
+This is a short file to use as a demo. (lynda follow along)
+
+It does not have a lot of content in it.
